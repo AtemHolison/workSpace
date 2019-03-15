@@ -1,3 +1,5 @@
+//Copied code use for educational reference @university
+
 import java.util.Arrays;
 import java.util.Scanner;
 import java.util.regex.*;
