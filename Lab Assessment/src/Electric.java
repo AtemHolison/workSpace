@@ -103,7 +103,7 @@ import java.util.Scanner;
 		           System.out.print("\nWould you like to play another game? (y/n) ");
 		           response = keyboard.next().charAt(0);
 		           
-		           
+		           //checked
 		       }
 
 		   }
